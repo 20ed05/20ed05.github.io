@@ -2,7 +2,7 @@
 title: Continuing Fuzebox
 layout: post
 author: edward.bellamy
-permalink: /github-template/
+permalink: /Continuing Fuzebox/
 source-id: 1BEpi_jPAfpByKEeDNw7iUL9_NkZoHnAzuRJaBBELIVw
 published: true
 ---
