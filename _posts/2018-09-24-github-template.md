@@ -1,5 +1,5 @@
 ---
-title: github template
+title: Continuing Fuzebox
 layout: post
 author: edward.bellamy
 permalink: /github-template/
